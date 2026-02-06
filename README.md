@@ -218,6 +218,7 @@ streamlit run app/app.py
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
 **Aniket Dombale**
+
 Aspiring Data Scientist | ML | NLP | GenAI
 
 
