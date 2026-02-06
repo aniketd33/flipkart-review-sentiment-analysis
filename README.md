@@ -1,4 +1,3 @@
-
 # 🛒 Flipkart Review Sentiment Analysis Dashboard
 
 _Analyzing customer sentiment from Flipkart product reviews using NLP, Machine Learning, and Streamlit._
@@ -218,8 +217,11 @@ streamlit run app/app.py
 
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
-**Aniket Dombale**
+**Nikhil Borade**
 Aspiring Data Scientist | ML | NLP | GenAI
+
+🔗 GitHub: [https://github.com/nikhilborade0412](https://github.com/nikhilborade0412)
+🔗 LinkedIn: [https://www.linkedin.com/in/nikhilborade](https://www.linkedin.com/in/nikhilborade)
 
 ---
 
