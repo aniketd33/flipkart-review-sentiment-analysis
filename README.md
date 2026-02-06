@@ -218,11 +218,8 @@ streamlit run app/app.py
 
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
-**Nikhil Borade**
+**Aniket Dombale**
 Aspiring Data Scientist | ML | NLP | GenAI
-
-🔗 GitHub: [https://github.com/nikhilborade0412](https://github.com/nikhilborade0412)
-🔗 LinkedIn: [https://www.linkedin.com/in/nikhilborade](https://www.linkedin.com/in/nikhilborade)
 
 ---
 
